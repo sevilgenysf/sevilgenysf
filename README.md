@@ -17,3 +17,8 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sevilgenysf&count_private=true&theme=react&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sevilgenysf&langs_count=5&theme=react)]()
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sevilgenysf)](https://github.com/sevilgenysf/github-contribution-stats/)
