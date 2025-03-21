@@ -34,4 +34,4 @@
 
 ---
 
-![snake gif](https://github.com/sevilgenysf/snake/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/sevilgenysf/sevilgenysf/blob/output/github-contribution-grid-snake.svg)
